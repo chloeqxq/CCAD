@@ -1,4 +1,4 @@
-# CCAD Reproduction
+# CCAD
 
 This repository is a reproduction of **DiAD (AAAI 2024)** and related CCAD experiments.
 Original Paper: [DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection](https://arxiv.org/abs/2312.06607)
