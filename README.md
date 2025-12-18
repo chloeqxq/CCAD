@@ -54,7 +54,3 @@ To start training/testing:
 python train.py
 ```
 
-## 📄 Original Documentation
-
-For the original project README and citation, please refer to [README_ORIGINAL.md](./README_ORIGINAL.md).
-
