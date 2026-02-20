@@ -1,4 +1,4 @@
-# CCAD
+# CCAD : Compressed Global Feature Conditioned Anomaly Detection
 ![CCAD Framework](./assets/framework.png)
 
 This repository is a reproduction of **DiAD (AAAI 2024)** and related CCAD experiments.
